@@ -49,6 +49,10 @@ wget https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8s-seg.
 ```bash
 streamlit run app.py
 ```
+or 
+```bash
+python -m streamlit run app.py
+```
 
 2. Follow the intuitive UI:
    - Upload your video
