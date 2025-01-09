@@ -464,14 +464,14 @@ def main():
                 preview = update_preview(st.session_state['first_frame'], text_sets, detected_masks)
                 if preview is not None:
                     st.image(cv2.cvtColor(preview, cv2.COLOR_BGR2RGB), 
-                            use_column_width=True)
+                            use_container_width=True)
             
             # Basic preview second
             with preview_tabs[1]:
                 basic_preview = update_preview(st.session_state['first_frame'], text_sets)
                 if basic_preview is not None:
                     st.image(cv2.cvtColor(basic_preview, cv2.COLOR_BGR2RGB), 
-                            use_column_width=True)
+                            use_container_width=True)
             
             # Process section with better styling
             if video_file and text_sets and selected_classes:
