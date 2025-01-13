@@ -4,6 +4,9 @@
 
 A powerful application for adding intelligent text overlays to videos with object detection, developed by [Shotcut.in](https://shotcut.in).
 
+![alt text](https://github.com/tansihmittal/textbehindvideo/blob/main/horse.jpg?raw=true)
+
+
 ## 🌟 Overview
 
 Video Text Overlay is a sophisticated web application that combines state-of-the-art object detection with professional text overlay capabilities. Built with Streamlit, it offers an intuitive interface for adding text to videos while respecting the presence of detected objects in the scene.
