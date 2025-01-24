@@ -2,7 +2,7 @@
 
 # Video Text Overlay
 
-A powerful application for adding intelligent text overlays to videos with object detection, developed by [Shotcut.in](https://shotcut.in).
+A powerful application for adding intelligent text overlays to videos with object detection, developed by [Tanish Miital](https://www.instagram.com/tanishmittal02).
 
 ![alt text](https://github.com/tansihmittal/textbehindvideo/blob/main/horse.jpg?raw=true)
 
@@ -131,4 +131,4 @@ For questions, feature requests, or support:
 - [ ] Batch processing capabilities
 - [ ] Export in multiple formats
 
-Made with ❤️ by Shotcut.in
+Made with ❤️ by Tanish Mittal
