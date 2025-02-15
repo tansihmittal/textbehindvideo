@@ -127,7 +127,7 @@ def get_pil_font(font_family, font_size):
 
 @st.cache_resource
 def load_model():
-    model = YOLO('yolov8s-seg.pt')
+    model = YOLO('yolo11x-seg.pt')
     model.conf = 0.5
     model.iou = 0.7
     return model
